@@ -1,0 +1,4 @@
+seleniumbase
+openai
+python-dotenv
+fpdf
